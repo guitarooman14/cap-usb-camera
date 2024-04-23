@@ -1,0 +1,2 @@
+project(':libuvccamera-release').projectDir = new File(rootDir, 'android/libuvccamera-release/')
+include ':libuvccamera-release'

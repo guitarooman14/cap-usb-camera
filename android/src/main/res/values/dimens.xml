@@ -27,4 +27,10 @@
 	<dimen name="button_size">48dp</dimen>
     <dimen name="list_font_size">18sp</dimen>
     <dimen name="list_height_min">32dp</dimen>
+	<dimen name="horizontal_margin_half">4dp</dimen>
+	<dimen name="vertical_margin_half">4dp</dimen>
+	<dimen name="sz_icon_camera_ctrl">44dp</dimen>
+
+	<dimen name="text_sz_cpu_load">20sp</dimen>
+	<dimen name="text_sz_fps">20sp</dimen>
 </resources>
